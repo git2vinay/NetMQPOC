@@ -1,0 +1,15 @@
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQResponseServer.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQResponseServer.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/AsyncIO.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQ.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/AsyncIO.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQ.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQ.xml
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/obj/Debug/NetMQResponseServer.csprojAssemblyReference.cache
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/obj/Debug/NetMQResponseServer.csproj.CopyComplete
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/obj/Debug/NetMQResponseServer.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/obj/Debug/NetMQResponseServer.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQActorPOC.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/Newtonsoft.Json.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/NetMQActorPOC.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQResponseServer/bin/Debug/Newtonsoft.Json.xml

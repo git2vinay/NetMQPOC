@@ -1,0 +1,11 @@
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/NetMQPOC.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/NetMQPOC.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/AsyncIO.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/NetMQ.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/AsyncIO.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/NetMQ.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/bin/Debug/NetMQ.xml
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/obj/Debug/NetMQPOC.csprojAssemblyReference.cache
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/obj/Debug/NetMQPOC.csproj.CopyComplete
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/obj/Debug/NetMQPOC.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQPOC/obj/Debug/NetMQPOC.pdb

@@ -1,0 +1,15 @@
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQRequestClient.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQRequestClient.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/AsyncIO.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQ.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/AsyncIO.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQ.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQ.xml
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/obj/Debug/NetMQRequestClient.csprojAssemblyReference.cache
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/obj/Debug/NetMQRequestClient.csproj.CopyComplete
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/obj/Debug/NetMQRequestClient.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/obj/Debug/NetMQRequestClient.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQActorPOC.exe
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/Newtonsoft.Json.dll
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/NetMQActorPOC.pdb
+/Users/vkv/RiderProjects/NetMQPOC/NetMQRequestClient/bin/Debug/Newtonsoft.Json.xml

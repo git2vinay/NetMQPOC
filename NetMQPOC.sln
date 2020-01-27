@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQPOC", "NetMQPOC\NetMQPOC.csproj", "{B9B077C1-23F9-4FB2-BDE6-F576EEE1CE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQServer", "NetMQServer\NetMQServer.csproj", "{09721D38-345F-45FF-BEE5-8B95E76E0384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQPubSub", "NetMQPubSub\NetMQPubSub.csproj", "{B55D76E0-4D28-4F46-A305-4A6BFCA389CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQActorPOC", "NetMQActorPOC\NetMQActorPOC.csproj", "{8D0CFA15-791D-4FE7-9D0E-DE5A173D472C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQRequestClient", "NetMQRequestClient\NetMQRequestClient.csproj", "{00938DB1-8BF2-4A7D-B679-FD4E22ADC5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQResponseServer", "NetMQResponseServer\NetMQResponseServer.csproj", "{8D528F5A-9FD1-4DD8-B825-D65F0CB532E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B077C1-23F9-4FB2-BDE6-F576EEE1CE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B077C1-23F9-4FB2-BDE6-F576EEE1CE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B077C1-23F9-4FB2-BDE6-F576EEE1CE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B077C1-23F9-4FB2-BDE6-F576EEE1CE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09721D38-345F-45FF-BEE5-8B95E76E0384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09721D38-345F-45FF-BEE5-8B95E76E0384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09721D38-345F-45FF-BEE5-8B95E76E0384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09721D38-345F-45FF-BEE5-8B95E76E0384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D76E0-4D28-4F46-A305-4A6BFCA389CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D76E0-4D28-4F46-A305-4A6BFCA389CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D76E0-4D28-4F46-A305-4A6BFCA389CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D76E0-4D28-4F46-A305-4A6BFCA389CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0CFA15-791D-4FE7-9D0E-DE5A173D472C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0CFA15-791D-4FE7-9D0E-DE5A173D472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0CFA15-791D-4FE7-9D0E-DE5A173D472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0CFA15-791D-4FE7-9D0E-DE5A173D472C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00938DB1-8BF2-4A7D-B679-FD4E22ADC5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00938DB1-8BF2-4A7D-B679-FD4E22ADC5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00938DB1-8BF2-4A7D-B679-FD4E22ADC5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00938DB1-8BF2-4A7D-B679-FD4E22ADC5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D528F5A-9FD1-4DD8-B825-D65F0CB532E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D528F5A-9FD1-4DD8-B825-D65F0CB532E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D528F5A-9FD1-4DD8-B825-D65F0CB532E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D528F5A-9FD1-4DD8-B825-D65F0CB532E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
