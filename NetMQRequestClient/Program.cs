@@ -19,6 +19,7 @@ namespace NetMQRequestClient
                     = JsonConvert.DeserializeObject<Account>(message);
                 Console.WriteLine("requestSocket : Received '{0}'", account);
                 Console.ReadLine();
+                Console.WriteLine(" Testing of the rebasing in the ");
             }
 
         }
