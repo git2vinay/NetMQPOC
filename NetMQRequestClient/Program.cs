@@ -30,6 +30,8 @@ namespace NetMQRequestClient
 
                 Console.WriteLine(" Rebasing branch - Testing of the rebasing in the -4rd attempt");
 
+                Console.WriteLine(" Testing of the rebasing in the -4th attempt");
+
             }
 
         }
