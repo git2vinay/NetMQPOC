@@ -23,6 +23,7 @@ namespace NetMQPOC
                     Console.WriteLine(" This is master changes that i need in feature branch");
                     Console.WriteLine(" BRanch changes ");
                     Console.WriteLine(" This is master changes that i need in feature branch +1 ");
+                    Console.WriteLine(" This is master changes that i need in feature branch +2");
 
                 }
             }
