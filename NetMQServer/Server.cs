@@ -20,6 +20,7 @@ namespace NetMQPOC
                     Console.WriteLine(" Message Received on Server {0}",message);
                     Thread.Sleep(200);
                     server.SendFrame("World");
+                    Console.WriteLine(" This is master changes that i need in feature branch");
                     Console.WriteLine(" BRanch changes ");
                 }
             }
