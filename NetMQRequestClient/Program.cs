@@ -20,6 +20,7 @@ namespace NetMQRequestClient
                 Console.WriteLine("requestSocket : Received '{0}'", account);
                 Console.WriteLine(" Branch checkin ");
                 Console.ReadLine();
+                Console.WriteLine(" Testing of the rebasing in the ");
             }
 
         }
