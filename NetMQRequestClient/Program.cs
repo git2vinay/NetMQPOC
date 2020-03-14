@@ -18,6 +18,7 @@ namespace NetMQRequestClient
                 Account account
                     = JsonConvert.DeserializeObject<Account>(message);
                 Console.WriteLine("requestSocket : Received '{0}'", account);
+                Console.WriteLine(" Branch checkin ");
                 Console.ReadLine();
             }
 
