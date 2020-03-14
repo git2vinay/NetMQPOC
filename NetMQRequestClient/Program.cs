@@ -23,6 +23,7 @@ namespace NetMQRequestClient
                 Console.WriteLine(" Testing of the rebasing in the ");
                 Console.WriteLine(" Testing of the rebasing in the ");
                 Console.WriteLine(" Testing of the rebasing in the -2nd attempt");
+                Console.WriteLine(" Testing of the rebasing in the -3rd attempt");
             }
 
         }
